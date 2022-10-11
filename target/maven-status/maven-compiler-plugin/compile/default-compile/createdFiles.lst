@@ -1,0 +1,9 @@
+fr\ensim\App.class
+fr\ensim\Zoo.class
+fr\ensim\LimiteVisiteurException.class
+fr\ensim\AnimalDansMauvaisSecteurException.class
+fr\ensim\Chien.class
+fr\ensim\Animal.class
+fr\ensim\Chat.class
+fr\ensim\Secteur.class
+fr\ensim\TypeAnimal.class
